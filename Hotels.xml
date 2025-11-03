@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel Rating="4.2">
+        <Name>The Nines</Name>
+        <Phone>503-555-1111</Phone>
+        <Phone>800-555-1111</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>525</Number>
+            <Street>SW Morrison St</Street>
+            <City>Portland</City>
+            <State>OR</State>
+            <Zip>97204</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.8">
+        <Name>Graduate Eugene</Name>
+        <Phone>541-555-2222</Phone>
+        <Address NearestAirport="Eugene Airport">
+            <Number>66</Number>
+            <Street>E 6th Ave</Street>
+            <City>Eugene</City>
+            <State>OR</State>
+            <Zip>97401</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.5">
+        <Name>Hilton Portland Downtown</Name>
+        <Phone>503-555-3333</Phone>
+        <Phone>888-555-3333</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>921</Number>
+            <Street>SW 6th Ave</Street>
+            <City>Portland</City>
+            <State>OR</State>
+            <Zip>97204</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.9">
+        <Name>Riverhouse on the Deschutes</Name>
+        <Phone>541-555-4444</Phone>
+        <Address NearestAirport="Roberts Field">
+            <Number>3075</Number>
+            <Street>N Business 97</Street>
+            <City>Bend</City>
+            <State>OR</State>
+            <Zip>97703</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.1">
+        <Name>DoubleTree by Hilton Salem</Name>
+        <Phone>503-555-5555</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>1590</Number>
+            <Street>Weston Ct NE</Street>
+            <City>Salem</City>
+            <State>OR</State>
+            <Zip>97301</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>La Quinta Inn Medford</Name>
+        <Phone>541-555-6666</Phone>
+        <Address NearestAirport="Rogue Valley International">
+            <Number>830</Number>
+            <Street>N Riverside Ave</Street>
+            <City>Medford</City>
+            <State>OR</State>
+            <Zip>97501</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.0">
+        <Name>Holiday Inn Express Corvallis</Name>
+        <Phone>541-555-7777</Phone>
+        <Phone>888-555-7777</Phone>
+        <Address NearestAirport="Eugene Airport">
+            <Number>781</Number>
+            <Street>NW 2nd St</Street>
+            <City>Corvallis</City>
+            <State>OR</State>
+            <Zip>97330</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.7">
+        <Name>Comfort Suites Springfield</Name>
+        <Phone>541-555-8888</Phone>
+        <Address NearestAirport="Eugene Airport">
+            <Number>969</Number>
+            <Street>Kruse Way</Street>
+            <City>Springfield</City>
+            <State>OR</State>
+            <Zip>97477</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>Embassy Suites Portland Airport</Name>
+        <Phone>503-555-9999</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>7900</Number>
+            <Street>NE 82nd Ave</Street>
+            <City>Portland</City>
+            <State>OR</State>
+            <Zip>97220</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.6">
+        <Name>Renaissance Portland</Name>
+        <Phone>503-555-1010</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>50</Number>
+            <Street>SW Morrison St</Street>
+            <City>Portland</City>
+            <State>OR</State>
+            <Zip>97204</Zip>
+        </Address>
+    </Hotel>
+</Hotels>

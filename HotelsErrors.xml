@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel> 
+    <Hotel Rating="4.2">
+        <Name>The Nines</Name>
+        <Phone>503-555-1111</Phone>
+        <Phone>800-555-1111</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>525</Number>
+            <Street>SW Morrison St</Street>
+            <City>Portland</City>
+            <State>OR</State>
+            <Zip>97204</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.8">
+        <Name>Graduate Eugene</Name>
+        <Phone>541-555-2222</Phone>
+        <Address>
+            <Number>66</Number>
+            <Street>E 6th Ave</Street>
+            <City>Eugene</City>
+            <State>OR</State>
+            <Zip>97401</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.5">
+        <Name>Hilton Portland Downtown</Name>
+        <Address NearestAirport="Portland International Airport">
+            <Number>921</Number>
+            <Street>SW 6th Ave</Street>
+            <City>Portland</City>
+            <State>OR</State>
+            <Zip>97204</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.9">
+        <Name>Riverhouse on the Deschutes</Name>
+        <Phone>541-555-4444</Phone>
+        <Address NearestAirport="Roberts Field">
+            <Number>3075</Number>
+            <Street>N Business 97</Street>
+            <City>Bend</City>
+            <State>OR</State>
+            <Zip>97703</Zip>
+    </Hotel>
+
+    <Hotel Rating="4.1">
+        <Name>DoubleTree by Hilton Salem</Name>
+        <Name>Duplicate Name</Name>
+        <Phone>503-555-5555</Phone>
+        <Address NearestAirport="Portland International Airport">
+            <Number>1590</Number>
+            <Street>Weston Ct NE</Street>
+            <City>Salem</City>
+            <State>OR</State>
+            <Zip>97301</Zip>
+        </Address>
+    </Hotel>
+</Hotel>
